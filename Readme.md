@@ -37,8 +37,10 @@ Here are some screenshots of the system in action:
 
 ### 1. **Yawn Detection**  
 The system monitors the live detection of Yawn signs of person in day and night mode.
+##
 Day Mode:
 ![Day Mode](output_1.png)
+##
 Night Mode:
 ![Night Mode](output_2.png)
 
