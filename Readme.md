@@ -95,4 +95,4 @@ Follow these steps to set up and run the Driver Drowsiness Detection System:
 1. **Clone the Repository**:  
    Clone the repository to your local machine using the following command:  
    ```bash  
-   git clone https://github.com/yourusername/driver-drowsiness-detection.git  
+   gh repo clone yourname/Smart-driver-drowsiness-system
